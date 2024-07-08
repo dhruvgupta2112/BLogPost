@@ -49,3 +49,30 @@ Follow these instructions to set up and run the project on your local machine.
      },
      // other environments...
    };
+
+### Running the Application
+
+1. **Running the Client**
+
+   Open a terminal and navigate to the client directory.
+   Run the following commands:
+
+   ```
+   npm install
+   npm start
+   ```
+   The client should now be running on http://localhost:3000.
+
+Running the Server
+
+2. **Open a terminal and navigate to the server directory.**
+
+   Run the following commands:
+
+   ```
+   npm install
+   npm start
+   ```
+   The server should now be running on http://localhost:5000.
+
+
