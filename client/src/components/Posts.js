@@ -86,7 +86,7 @@ function Posts() {
         <div className='listOfComments'>
           {comments.map((value, key)=>{
             return (<div key={key} className="comment addCommentContainer">
-              <div className="leftSideOfComments"><Avatar style={{"marginTop":"0px"}} fontSize='large'>{authState.username[0].toUpperCase()}</Avatar></div>
+              <div className="leftSideOfComments"><Avatar style={{"marginTop":"0px"}} fontSize='large'>{isCmtLoaded && value.username[0].toUpperCase()}</Avatar></div>
               <div className="rightSideOfComments">
                 <div style={{"fontWeight":"600"}}>{value.username}</div>
                 <div className="commentBody">{value.commentBody}</div>
