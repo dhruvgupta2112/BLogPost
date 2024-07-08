@@ -1,4 +1,4 @@
-# BlogPost - A Comprehensive Blogging Platform
+# BlogPost
 
 BlogPost is a full-featured blogging platform that allows users to post blogs, view other blogs, like and comment on blogs, sign up/sign in, and manage their content. It supports multiple users and is built using modern web technologies.
 
@@ -50,7 +50,7 @@ Follow these instructions to set up and run the project on your local machine.
      // other environments...
    };
 
-### Running the Application
+## Running the Application
 
 1. **Running the Client**
 
