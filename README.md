@@ -2,6 +2,10 @@
 
 BlogPost is a full-featured blogging platform that allows users to post blogs, view other blogs, like and comment on blogs, sign up/sign in, and manage their content. It supports multiple users and is built using modern web technologies.
 
+## ScreenShot
+![Screen Shot](https://github.com/dhruvgupta2112/BLogPost/blob/main/Screenshot%202024-07-08%20161839.png "Optional title")
+![Screen Shot](https://github.com/dhruvgupta2112/BLogPost/blob/main/Screenshot%202024-07-08%20162619.png "Optional title")
+
 ## Features
 
 - **Post Blogs**: Share your thoughts and insights by posting blogs.
